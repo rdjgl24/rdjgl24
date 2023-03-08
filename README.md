@@ -4,7 +4,7 @@
 
 I am a recently gratuated **software engineer** from Maracaibo, Zulia, Venezuela. I am a programming enthusiast who is looking for his first job experience in a company where i can apply the knowledge that i have acquired during my college years, that allows me to grow in the labor and personal area
 
-### Comandos de la terminal ⚙🟥
+### Comandos de la terminal 🟥
 
 | Comandos |  Descripcion                             |
 | -----    |  -----                                   |

@@ -21,4 +21,4 @@ I am a recently gratuated **software engineer** from Maracaibo, Zulia, Venezuela
 | ```alias cl="clear"```        | Sirve para limpiar la terminal                                      |
 
 ### Github Profile 🔗
-https://github.com/andrealvarez2d
+https://github.com/rdjgl24

@@ -1,16 +1,24 @@
-### Hi there 👋
+# Ronald Gonzalez 👨🏽‍💻
 
-<!--
-**rdjgl24/rdjgl24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Web Developer
 
-Here are some ideas to get you started:
+I am a recently gratuated **software engineer** from Maracaibo, Zulia, Venezuela. I am a programming enthusiast who is looking for his first job experience in a company where i can apply the knowledge that i have acquired during my college years, that allows me to grow in the labor and personal area
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Comandos de la terminal ⚙🟥
+
+| Comandos |  Descripcion                             |
+| -----    |  -----                                   |
+| ls       |  Lista de carpetas actuales              |
+| cd       |  Nos permite navegar entre carpetas      |
+| mkdir    |  Crea una carpeta nueva                  |
+| cat      |  Imprime el contenido de un archivo      |
+| rm       |  Permite remover archivos segun su ruta  |
+
+### Comandos alias 🟦
+| Comandos                      |  Descripcion                                                        |
+| -----                         |  -----                                                              |
+| ```alias npms="npm start"```  | Le indica al npm (Node package manager) que corra el comando start  |
+| ```alias cl="clear"```        | Sirve para limpiar la terminal                                      |
+
+### Github Profile 🔗
+https://github.com/andrealvarez2d
